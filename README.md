@@ -1,7 +1,6 @@
 ### Opa, me chamo Eduardo Sávio
 
-- Trabalho na Exo Innovation Sustaintability como Fullstack, no frontend utilizo Next com typescript e no backend utilizo FastAPI
-- Estou estudando Docker e Kubernetes
+- Trabalho na Exo Innovation Sustaintability como Fullstack, no frontend utilizo Nextjs com typescript e no backend utilizo FastAPI
 - Linguagens que eu já utilizei/utilizo: Python, Javascript, Typescript
 - Frameworks e Libraries favorita/mais usei: React, Django, FastAPI, Express, Nest, Pandas
 - Pode entrar em contato comigo no meu linkedin ou no email
