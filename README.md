@@ -9,4 +9,5 @@ SOPEC: https://www.sopec.app.br
 Linkedin: https://www.linkedin.com/in/savioeduardo/
 
 Email: saviodudu79@gmail.com
+
 Email Novasce: eduardo.savio@novasce.com
