@@ -4,7 +4,11 @@ Trabalhei anteriormente como Fullstack na Exo Innovation Sustainability, utiliza
 
 Novasce: https://www.novasce.com/
 
-SOPEC: https://www.sopec.app.br
+SOPEC: https://www.sopec.app.br/
+
+Merende: https://merende-app.vercel.app/
+
+Dsfr Tech: https://www.dsfr-tech.com/
 
 Linkedin: https://www.linkedin.com/in/savioeduardo/
 
