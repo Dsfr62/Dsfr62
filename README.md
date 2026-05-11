@@ -13,11 +13,11 @@
 
 ## Sobre mim
 
-Tenho 21 anos, sou desenvolvedor full-stack e fundador da Novasce. Comecei a empresa aos 19 anos, ainda na faculdade, com a convicção de que dava para construir software sério sem esperar se formar. Hoje estou concluindo minha graduação em 2026 enquanto lidero o desenvolvimento dos nossos produtos.
+Tenho 21 anos, sou desenvolvedor full-stack e fundador da Novasce. Entrei no mercado de programação aos 16 anos e aos 19 fundei minha própria empresa — ainda na faculdade, com a convicção de que dava para construir software sério sem esperar se formar. Hoje estou concluindo minha graduação em 2026 enquanto lidero o desenvolvimento dos nossos produtos.
 
 Trabalho principalmente com o ecossistema React — Next.js, TypeScript e TailwindCSS — mas meu interesse vai além do front: gosto de pensar em arquitetura, modelagem de dados, integrações de pagamento e como construir produtos que crescem de verdade. SaaS é o modelo que mais me interessa, tanto pela escalabilidade técnica quanto pelo potencial de negócio.
 
-Fora do computador: academia, corrida, skimboard, basquete e pilates. Café especial, viagens pelo Brasil e música completam bem o dia.
+Fora do computador: academia, corrida, skimboard, basquete e pilates. Café especial, viagens pelo mundo e música completam bem o dia.
 
 ---
 
@@ -85,6 +85,7 @@ Extensão do Comply2 voltada para o acompanhamento de obrigações legais relaci
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
@@ -103,6 +104,6 @@ Extensão do Comply2 voltada para o acompanhamento de obrigações legais relaci
 
 <div align="center">
 
-*Construindo produtos que resolvem problemas reais · São Paulo, Brasil*
+*Construindo produtos que resolvem problemas reais · Aracaju, SE · Brasil*
 
 </div>
