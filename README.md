@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cabecalho-escuro.svg">
-  <img alt="Eduardo Sávio. I build the systems that run companies." src="./cabecalho-claro.svg" width="100%">
-</picture>
+<img alt="Eduardo Sávio. I build the systems that run companies." src="./cabecalho-claro.svg#gh-light-mode-only" width="100%">
+<img alt="Eduardo Sávio. I build the systems that run companies." src="./cabecalho-escuro.svg#gh-dark-mode-only" width="100%">
 
 I'm Eduardo, founder of [Novasce](https://www.novasce.com), a software company in Aracaju, Brazil. I design and ship the systems companies run on every day, and I build them with AI agents as part of the team.
 
